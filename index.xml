@@ -1,0 +1,21 @@
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+  <channel>
+    <title>Poon nè</title>
+    <link>https://doonpy.github.io/blog</link>
+    <description>Nghĩ gì viết đó!</description>
+    <language>en-us, vi-vn</language>
+    <managingEditor>nguyenduypoon@gmail.com (Poon Nguyễn)</managingEditor>
+    <webMaster>nguyenduypoon@gmail.com (Poon Nguyễn)</webMaster>
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 GMT</lastBuildDate>
+    <atom:link href='https://doonpy.github.io/' rel='self' type='application/rss+xml'/>
+    <item>
+      <guid>https://doonpy.github.io/blog/hieu-biet-cua-minh-ve-git</guid>
+      <title>[Phần 1] Hiểu biết của mình về Git</title>
+      <link>https://doonpy.github.io/blog/hieu-biet-cua-minh-ve-git</link>
+      <description>Lại là một ngày thứ 7 rảnh rỗi và không có gì làm nên viết nhẹ một bài blog cho bằng chị bằng em. Đây là blog đầu tiên mình viết nên hi vọng chỉ nhận được gạch đá ở mức nhà 2 tấm thôi là mãn nguyện rồi 🤓 hì hì...</description>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 GMT</pubDate>
+      <author>nguyenduypoon@gmail.com (Poon Nguyễn)</author>
+      <category>git</category>
+    </item>
+  </channel>
+</rss>
