@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://doonpy.github.io
+Sitemap: https://doonpy.github.io/sitemap.xml
