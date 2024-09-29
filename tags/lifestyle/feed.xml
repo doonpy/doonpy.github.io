@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>The Poon Suy | Dev &amp; Lifestyle</title>
-      <link>https://thepoosuy.life/blog</link>
+      <link>https://thepoonsuy.life/blog</link>
       <description>Write whatever I thinking!</description>
       <language>vi,en</language>
       <managingEditor>nguyenduypoon@gmail.com (Poon Nguyen)</managingEditor>
       <webMaster>nguyenduypoon@gmail.com (Poon Nguyen)</webMaster>
       <lastBuildDate>Sun, 29 Sep 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://thepoosuy.life/tags/lifestyle/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://thepoonsuy.life/tags/lifestyle/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://thepoosuy.life/blog/tro-lai-voi-viet-blog-sau-4-nam</guid>
+    <guid>https://thepoonsuy.life/blog/tro-lai-voi-viet-blog-sau-4-nam</guid>
     <title>Trở lại với viết blog sau 4 năm</title>
-    <link>https://thepoosuy.life/blog/tro-lai-voi-viet-blog-sau-4-nam</link>
+    <link>https://thepoonsuy.life/blog/tro-lai-voi-viet-blog-sau-4-nam</link>
     <description>Đã 4 năm rồi kể từ ngày mình viết bài blog đầu tiên, mình đã quyết định trở lại với con đường viết lách. Lý do là gì?</description>
     <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
     <author>nguyenduypoon@gmail.com (Poon Nguyen)</author>
