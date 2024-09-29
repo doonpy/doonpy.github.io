@@ -8,7 +8,7 @@
       <managingEditor>nguyenduypoon@gmail.com (Poon Nguyen)</managingEditor>
       <webMaster>nguyenduypoon@gmail.com (Poon Nguyen)</webMaster>
       <lastBuildDate>Sun, 29 Sep 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://thepoosuy.life/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://thepoosuy.life/tags/suy/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://thepoosuy.life/blog/tro-lai-voi-viet-blog-sau-4-nam</guid>
@@ -18,16 +18,6 @@
     <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
     <author>nguyenduypoon@gmail.com (Poon Nguyen)</author>
     <category>lifestyle</category><category>suy</category>
-  </item>
-
-  <item>
-    <guid>https://thepoosuy.life/blog/my-understanding-about-git</guid>
-    <title>[Part 1] My understanding about Git</title>
-    <link>https://thepoosuy.life/blog/my-understanding-about-git</link>
-    <description>Once again, it&#39;s a leisurely Saturday with nothing much to do, so I decided to write a light blog post, just like a big sister or a little sister would. This is my first attempt at blogging, so I hope to only receive constructive criticism, maybe at the level of two bricks, and I&#39;ll be content 🤓 hehe...</description>
-    <pubDate>Sat, 15 Aug 2020 00:00:00 GMT</pubDate>
-    <author>nguyenduypoon@gmail.com (Poon Nguyen)</author>
-    <category>dev</category><category>git</category>
   </item>
 
     </channel>
