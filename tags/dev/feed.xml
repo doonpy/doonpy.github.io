@@ -27,7 +27,17 @@
     <description>Lý do là gì ta???</description>
     <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
     <author>nguyenduypoon@gmail.com (Poon Nguyen)</author>
-    <category>dev</category><category>aws</category><category>cloud-computing</category><category>certification</category><category>dva-c02</category>
+    <category>dev</category><category>aws</category><category>cloud-computing</category><category>certification</category><category>aws-dva-c02</category>
+  </item>
+
+  <item>
+    <guid>https://thepoonsuy.life/blog/aws-dva-c02/2-mot-vai-dieu-co-ban-ve-aws</guid>
+    <title>[AWS DVA-C02] #2 - Một vài điều cơ bản về AWS</title>
+    <link>https://thepoonsuy.life/blog/aws-dva-c02/2-mot-vai-dieu-co-ban-ve-aws</link>
+    <description>Một vài khái niệm và cơ sở hạ tầng toàn cầu của AWS</description>
+    <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
+    <author>nguyenduypoon@gmail.com (Poon Nguyen)</author>
+    <category>dev</category><category>aws</category><category>cloud-computing</category><category>certification</category><category>aws-dva-c02</category>
   </item>
 
     </channel>
