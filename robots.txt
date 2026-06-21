@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
 
-Host: https://thepoonsuy.life
-Sitemap: https://thepoonsuy.life/sitemap.xml
+Host: https://doonpy.github.io
+Sitemap: https://doonpy.github.io/sitemap.xml

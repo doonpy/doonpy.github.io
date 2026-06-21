@@ -1,19 +1,19 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>The Poon Suy | Dev &amp; Lifestyle</title>
-      <link>https://thepoonsuy.life/blog</link>
+      <title>Poon Nguyen | Dev &amp; Lifestyle</title>
+      <link>https://doonpy.github.io/blog</link>
       <description>Write whatever I thinking!</description>
       <language>vi,en</language>
       <managingEditor>nguyenduypoon@gmail.com (Poon Nguyen)</managingEditor>
       <webMaster>nguyenduypoon@gmail.com (Poon Nguyen)</webMaster>
       <lastBuildDate>Sun, 13 Oct 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://thepoonsuy.life/tags/certification/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://doonpy.github.io/tags/certification/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://thepoonsuy.life/blog/aws-dva-c02/1-ly-do-toi-di-mua-khoa-hoc</guid>
+    <guid>https://doonpy.github.io/blog/aws-dva-c02/1-ly-do-toi-di-mua-khoa-hoc</guid>
     <title>[AWS DVA-C02] #1 - Lý do mình đi mua khóa học</title>
-    <link>https://thepoonsuy.life/blog/aws-dva-c02/1-ly-do-toi-di-mua-khoa-hoc</link>
+    <link>https://doonpy.github.io/blog/aws-dva-c02/1-ly-do-toi-di-mua-khoa-hoc</link>
     <description>Lý do là gì ta???</description>
     <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
     <author>nguyenduypoon@gmail.com (Poon Nguyen)</author>
@@ -21,9 +21,9 @@
   </item>
 
   <item>
-    <guid>https://thepoonsuy.life/blog/aws-dva-c02/2-mot-vai-dieu-co-ban-ve-aws</guid>
+    <guid>https://doonpy.github.io/blog/aws-dva-c02/2-mot-vai-dieu-co-ban-ve-aws</guid>
     <title>[AWS DVA-C02] #2 - Một vài điều cơ bản về AWS</title>
-    <link>https://thepoonsuy.life/blog/aws-dva-c02/2-mot-vai-dieu-co-ban-ve-aws</link>
+    <link>https://doonpy.github.io/blog/aws-dva-c02/2-mot-vai-dieu-co-ban-ve-aws</link>
     <description>Một vài khái niệm và cơ sở hạ tầng toàn cầu của AWS</description>
     <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
     <author>nguyenduypoon@gmail.com (Poon Nguyen)</author>
